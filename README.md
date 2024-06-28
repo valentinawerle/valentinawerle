@@ -25,8 +25,6 @@ A Software Engineering Student from Argentina.
 
 ### 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinawerle&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=radical)
 
 ---
