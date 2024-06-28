@@ -4,6 +4,12 @@ A Software Engineering Student from Argentina.
 
 ---
 
+### 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinawerle/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](valentinawerle@gmail.com)
+
+
 ### 🛠 Languages and Tools:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
