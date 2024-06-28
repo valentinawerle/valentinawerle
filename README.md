@@ -7,8 +7,6 @@ A Software Engineering Student from Argentina.
 ### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinawerle/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](valentinawerle@gmail.com)
-
 
 ### 🛠 Languages and Tools:
 
@@ -26,10 +24,3 @@ A Software Engineering Student from Argentina.
 ### 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=radical)
-
----
-
-### 💼 Projects and Dev Stuffs:
-
-- 🔭 I’m currently working on @LeptonSistemas
-- 🌱 I’m currently learning JavaScript
