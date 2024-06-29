@@ -1,6 +1,6 @@
 ## Hi! I'm Valentina Werle 🌸
 
-A Software Engineering Student from Argentina.
+A Software Engineering Student from Argentina
 
 ---
 
