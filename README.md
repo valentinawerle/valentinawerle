@@ -45,12 +45,21 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 </span>
 
-<h4> My Social Media </h4>
+## Check my Social Media
 
 <a href="https://www.twitch.tv/valenwerle" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
-
+<a href="https://www.instagram.com/valenwerle/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+" alt="Instagram">
+</a>
+<a href="https://www.youtube.com/@ValenWerle" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+</a>
+<a href="https://www.tiktok.com/@vapixel_" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+</a>
 
 
 
