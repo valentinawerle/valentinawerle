@@ -38,16 +38,23 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-
-
-
-</span>
-
-
-<h4> Databases </h4>
-<span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+
+
 </span>
+
+<h4> My Social Media </h4>
+
+<a href="https://www.twitch.tv/valenwerle" target="_blank">
+  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+</a>
+
+
+
+
+
 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
