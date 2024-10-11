@@ -47,7 +47,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 ## Check out my Social Media
 
-<a href="https://www.tiktok.com/@vapixel_" target="_blank">
+<a href="https://www.tiktok.com/@vapixel_" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
 <a href="https://www.twitch.tv/valenwerle" target="_blank">
